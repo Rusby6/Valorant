@@ -140,6 +140,10 @@ details summary {
     display: none;
 }
 
-#scroll-top:hover {
+#scroll-top:hover { 
     background: #b71c1c;
 }
+
+
+/*Clases: Cuando necesitas aplicar un estilo o comportamiento a varios elementos.*/
+/*IDs: Cuando necesitas identificar un único elemento, como para vincular con JavaScript o anclar en enlaces (<a href="#id">).*/
